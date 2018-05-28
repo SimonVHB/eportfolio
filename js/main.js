@@ -7,7 +7,6 @@ $(document).ready(function() {
         $('html,body').animate({
             scrollTop: $("#about-me").offset().top},
             'slow');
-        console.log("Tetten");
     });
 
     //------- Niceselect  js --------//  
